@@ -1,4 +1,5 @@
 # Weather Now 🌦️
+Here's a live demo of the app
 
 ## Usage 🚀
 1. Enter a city name in the search bar.
