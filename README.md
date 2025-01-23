@@ -1,5 +1,5 @@
 # Weather Now 🌦️
-Here's a live demo of the app
+Here's a [live demo](https://w3athernow.netlify.app/) of the app
 
 ## Usage 🚀
 1. Enter a city name in the search bar.
