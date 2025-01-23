@@ -18,8 +18,12 @@
 
 ## API Configuration ⚙️
 This project uses the **OpenWeather API**. To run the application:
-1. Sign up for a free API key at [OpenWeather](https://openweathermap.org/).
-2. Replace the API key in `js/weatherDataFetching.js`:
+1. Clone repository:
+  ```bash
+  git clone https://github.com/keleviss/weather-widget.git
+  ```
+2. Sign up for a free API key at [OpenWeather](https://openweathermap.org/).
+3. Replace the API key in `js/weatherDataFetching.js`:
    ```javascript
    const apiKey = 'your-open-weather-api-key';
    ```
